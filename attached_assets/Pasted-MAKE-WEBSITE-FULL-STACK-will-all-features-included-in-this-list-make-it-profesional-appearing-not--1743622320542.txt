@@ -1,0 +1,231 @@
+MAKE WEBSITE FULL STACK will all features included in this list. make it profesional appearing. not passing but prop amongst pro. a favorite of favorites. a tastemakers tastemaker kidn fo website. power the ai functions with gemini. here is my google ai api key for that AIzaSyA_sDYnM98gU4Rz24onF9rdiFBVusJkNXk
+
+list of features/multiple prds:
+
+Enterprise VC/PE Platform PRD 2.0 1. Deal Sourcing & Pipeline Management 1.1 Automated Deal Sourcing
+● Integration with major data providers:
+● PitchBook, CB Insights, Crunchbase for company data ● Capital IQ, FactSet, Refinitiv for market data
+● RelSci, ZoomInfo for contact data
+● AI-powered company discovery using Gemini 2.0:
+● Pattern recognition across successful exits
+● Market trend analysis
+● Competitive landscape mapping
+● Growth signals detection
+● Patent and IP analysis
+● Team strength evaluation
+1.2 Deal Flow Management
+● Custom deal scoring models
+● Stage-based pipeline tracking
+● Team collaboration tools
+● Automated follow-up system
+● Meeting notes with AI summaries
+● Due diligence checklist automation
+2. Financial Analysis & Modeling 2.1 Advanced Financial Modeling
+● Custom model templates for different industries ● Scenario analysis engine
+● Sensitivity analysis tools
+● Comparables analysis automation
+● Exit modeling
+● Waterfall analysis ● Returns attribution
+2.2 AI-Enhanced Analysis
+● Automated financial statement analysis ● Anomaly detection
+● Growth pattern recognition
+● Market sizing automation
+● Competitive analysis
+● Risk factor identification 3. Portfolio Management 3.1 Portfolio Monitoring
+● Real-time KPI tracking
+ ● Custom metric dashboards
+● Automated reporting
+● Board meeting management
+● Resource allocation optimization ● Exit timing analysis
+3.2 Value Creation
+● AI-powered growth opportunities identification ● Customer lead generation
+● Partnership recommendations
+● Operational improvement tracking
+● Synergy analysis between portfolio companies 4. Market Intelligence
+4.1 Market Analysis
+● Real-time market monitoring
+● Competitor tracking
+● Industry trend analysis
+● Regulatory change monitoring ● Patent tracking
+● Research paper analysis 4.2 AI-Powered Insights
+● Market sentiment analysis
+● Growth prediction
+● Disruption potential assessment ● Technology adoption curves
+● Regulatory impact prediction
+5. Investor Relations & Reporting 5.1 LP Portal
+● Custom LP dashboards ● Automated reporting
+● Document management ● Capital call management ● Distribution tracking
+● Performance attribution
+5.2 Presentation & Deck Management
+● Google Slides integration ● Template management
+● Version control
+● Real-time collaboration
+● Automated updates
+● Brand consistency checking
+
+ 6. Due Diligence
+6.1 Automated Due Diligence
+● Document collection & analysis ● Background checks
+● Legal compliance checking
+● IP analysis
+● Customer reference automation
+● Vendor assessment 6.2 AI-Enhanced DD
+● Red flag detection ● Pattern recognition ● Fraud detection
+● Market validation
+● Team assessment
+● Culture analysis
+7. Risk Management 7.1 Risk Analysis
+● Market risk assessment
+● Technology risk evaluation ● Team risk assessment
+● Competition analysis
+● Regulatory risk tracking
+● Operational risk monitoring
+7.2 AI-Powered Risk Insights
+● Early warning system
+● Risk correlation analysis
+● Mitigation recommendation ● Exposure monitoring
+● Scenario planning
+Would you like me to start implementing any specific part of this system? I recommend we begin with either:
+1. Fixing the current issues (login system, navigation buttons) 2. Implementing the enhanced deal sourcing system
+3. Building out the advanced financial modeling capabilities 4. Creating the AI-powered analysis engine
+VC Platform PRD - Version 1.0
+● 1. Core Platform Features
+● 1.1 Authentication & User Management
+● Professional authentication system with:
+● Multi-factor authentication
+
+ ● Role-based access (Partners, Associates, Analysts, Portfolio Companies) ● SSO integration with Google Workspace
+● Team collaboration features
+● Activity logging and audit trails
+● 1.2 Deal Flow Management
+● Deal pipeline tracking
+● Automated deal sourcing from:
+● AngelList, Crunchbase, PitchBook integration ● LinkedIn company monitoring
+● Startup event/accelerator tracking
+● Deal scoring and prioritization
+● Custom deal stages workflow
+● Automated company research compilation
+● Meeting notes and follow-up tracking
+● 1.3 Financial Analysis & Modeling
+● Advanced financial modeling tools:
+● Revenue modeling (multiple scenarios)
+● Burn rate analysis
+● Cap table management
+● Valuation modeling
+● Exit scenario analysis
+● Portfolio performance tracking
+● Integration with Excel for complex models
+● Real-time market data integration
+● Benchmarking against industry standards
+● Custom metric tracking
+● 1.4 Risk Assessment (Enhanced)
+● Comprehensive risk analysis:
+● Market risk assessment
+● Technology risk evaluation
+● Team assessment
+● Competition analysis
+● Regulatory risk tracking
+● AI-powered risk scoring
+● Historical performance correlation
+● Industry-specific risk factors
+● Real-time market condition monitoring
+● 1.5 Due Diligence Management
+● Due diligence checklist automation
+● Document collection and management
+● Automated background checks
+● Patent and IP analysis
+
+ ● Market size validation
+● Competitor analysis automation
+● Technical due diligence framework
+● Legal compliance checking
+● 1.6 Portfolio Management
+● Portfolio company dashboard
+● KPI tracking and reporting
+● Resource allocation optimization
+● Portfolio company health monitoring
+● Automated reporting generation
+● Board meeting management
+● Strategic planning tools
+● Exit planning and tracking
+● 1.7 Pitch Deck & Presentation Management
+● Google Slides integration
+● Template management
+● Real-time collaboration
+● Version control
+● Automated deck analytics
+● Presentation scheduling
+● Feedback collection
+● Brand consistency checking
+● 1.8 Lead Generation & Business Development ● For Portfolio Companies:
+● Customer lead generation
+● Market opportunity identification
+● Partnership recommendation engine
+● Sales pipeline tracking
+● Marketing campaign management
+● ROI tracking
+● For VC Firm:
+● Deal flow lead generation
+● Network expansion tools
+● Event recommendation engine
+● Relationship mapping
+● Automated follow-ups
+● 1.9 Market Intelligence
+● Real-time market monitoring
+● Competitor tracking
+● Industry trend analysis
+● News and social media monitoring
+● Patent and research paper tracking
+
+ ● Market size estimation
+● Growth rate prediction
+● Regulatory change monitoring
+● 1.10Reporting&Analytics
+● Custom report builder
+● Automated LP reporting
+● Portfolio performance analytics
+● Investment thesis tracking
+● Return attribution analysis
+● Risk exposure reporting
+● Deal flow analytics
+● Team performance metrics
+● 2. Technical Requirements
+● 2.1 Integrations
+● Financial Data: Bloomberg, Thomson Reuters
+● Market Data: CB Insights, PitchBook
+● CRM: Salesforce, HubSpot
+● Communication: Slack, Email
+● Document Management: Google Drive, Dropbox
+● Analytics: Tableau, PowerBI
+● Productivity: Google Workspace, Microsoft Office ● Banking: Major financial institutions
+● 2.2 Security
+● SOC 2 compliance
+● End-to-end encryption
+● Regular security audits
+● Access control management
+● Data backup and recovery
+● Compliance monitoring
+● 2.3 Performance
+● Real-time data processing
+● Fast search and filtering
+● Mobile responsiveness
+● Offline capabilities
+● API rate limiting
+● Load balancing
+● 3. User Experience
+● 3.1 Interface
+● Modern, professional design
+● Customizable dashboards
+● Intuitive navigation
+● Mobile-first approach
+
+● Dark/light mode
+● Accessibility compliance
+● 3.2 Workflow Automation ● Email automation
+● Meeting scheduling
+● Document generation
+● Data entry automation
+● Task management
+● Notification system
+
+i want it to be like the hedge fund/pe/venture cap version of salesforce/slack kind of 
